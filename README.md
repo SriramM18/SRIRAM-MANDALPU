@@ -1,5 +1,5 @@
 
-Hey there, I am SRIRAM
+<b>Hey there, I am SRIRAM<b>
 <hr>
 
  * 🔭 I'm a student at NIT ROURKELA

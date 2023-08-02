@@ -1,5 +1,5 @@
 
-### Hey there, I am SRIRAM
+### Hey there, I am Sriram Mandalapu
 ---
 
  * 🔭 I'm a student at NIT ROURKELA
